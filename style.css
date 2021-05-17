@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    background: rgb(0,0,0);
+background: radial-gradient(circle, rgba(0,0,0,1) 0%, rgba(11,8,75,1) 16%, rgba(89,146,233,1) 35%, rgba(0,254,255,1) 52%, rgba(89,146,233,1) 70%, rgba(11,8,75,1) 86%, rgba(0,0,0,1) 100%);
+    color:fuchsia;
+    
+    
+}
+img{
+    height: 200px;
+    width: 200px;
+}
+p{
+    color:blanchedalmond;
+    font-size:25px
+}
+h1{
+    font-size:50px
+}
+a{
+    text-decoration: none
+}
